@@ -1,9 +1,13 @@
 {
-  "name": "devs-util",
+  "name": "developer-utilities",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpdefsys/devs-util.git"
+  },
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
