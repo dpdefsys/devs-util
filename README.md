@@ -3,13 +3,13 @@ devs-util
 
 ## Installation
 
-run `npm install devs-util`
+run `npm install placeholder-utilities`
 
 ## Use
 
 to use method that fetches users
 ```
-import { GetUsers } from 'devs-util'
+import { GetUsers } from 'placeholder-utilities'
 
 GetUsers().then(console.log)
 
